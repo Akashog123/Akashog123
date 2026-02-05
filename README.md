@@ -1,8 +1,15 @@
 # Hi, I'm Akash 👋
 
-<img src="https://raw.githubusercontent.com/Akashog123/Akashog123/master/gh-header-image-cropped.png" alt="Akash - AI Engineer, Web Developer, and Software Developer" width="100%">
-
-I'm an **AI Engineer** passionate about building approachable open-source tools, leveraging technology to elevate people, and fostering tech communities.
+<table>
+    <tr>
+        <td width="70%">
+            <img src="https://raw.githubusercontent.com/Akashog123/Akashog123/master/gh-header-image-cropped.png" alt="Akash - AI Engineer, Web Developer, and Software Developer" width="100%">
+        </td>
+        <td width="30%">
+            I'm an <b>AI Engineer</b> passionate about building approachable open-source tools, leveraging technology to elevate people, and fostering tech communities.
+        </td>
+    </tr>
+</table>
 
 ---
 
@@ -37,9 +44,9 @@ I'm an **AI Engineer** passionate about building approachable open-source tools,
 
 ---
 
-##GitHub Stats
+## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-iota-roan.vercel.app?user=Akashog123&theme=whatsapp-dark&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-iota-roan.vercel.app?user=Akashog123&theme=whatsapp-dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="100%"/></a>
 
 ---
 
@@ -47,9 +54,8 @@ I'm an **AI Engineer** passionate about building approachable open-source tools,
 
 <a href="https://www.akashog.me"><img align="right" width="150" height="150" src="https://github.com/Akashog123/Akashog123/blob/main/dancing.gif?raw=true" alt="Dancing animation"></a>
 
-- 📝 Explore my portfolio: [akashog.me](https://www.akashog.me)
-- 💼 Connect on LinkedIn: [in/akash](https://www.linkedin.com/in/akash/)
-- 📧 Get in touch: [akashog123@gmail.com](mailto:akashog123@gmail.com)
+- Explore my portfolio: [akashog.me](https://www.akashog.me)
+- Connect on LinkedIn: [in/akash](https://www.linkedin.com/in/akash/)
 
 ---
 <p align="center">
