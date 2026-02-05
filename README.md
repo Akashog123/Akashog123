@@ -1,9 +1,8 @@
-<a><img align="left" height="100" src="https://github.com/Akashog123/Akashog123/blob/main/intro.gif?raw=true" alt="Dancing animation"></a>
+Hi I am Akash 👋
 
 I'm an **AI Engineer** passionate about building approachable open-source tools, leveraging technology to elevate people, and fostering tech communities.
 
-<img src="https://raw.githubusercontent.com/Akashog123/Akashog123/master/gh-header-image-cropped.png" alt="Akash - AI Engineer and Web Developer" width="100%">
-
+<a><img align="center" src="https://github.com/Akashog123/Akashog123/blob/main/name.gif?raw=true" alt="Akash - AI Engineer and Web Developer animation" width="100%"></a><br>
 ---
 
 <p align="center">
