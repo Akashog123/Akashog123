@@ -1,4 +1,4 @@
-Hi I am Akash 👋
+**Hi I am Akash 👋**
 
 I'm an **AI Engineer** passionate about building approachable open-source tools, leveraging technology to elevate people, and fostering tech communities.
 
