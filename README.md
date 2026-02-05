@@ -1,15 +1,6 @@
-# Hi, I'm Akash 👋
+I'm an **AI Engineer** passionate about building approachable open-source tools, leveraging technology to elevate people, and fostering tech communities.
 
-<table>
-    <tr>
-        <td width="30%">
-            I'm an <b>AI Engineer</b> passionate about building approachable open-source tools, leveraging technology to elevate people, and fostering tech communities.
-        </td>
-        <td width="60%">
-            <img src="https://raw.githubusercontent.com/Akashog123/Akashog123/master/gh-header-image-cropped.png" alt="Akash - AI Engineer, Web Developer, and Software Developer" width="100%">
-        </td>
-    </tr>
-</table>
+<img src="https://raw.githubusercontent.com/Akashog123/Akashog123/master/gh-header-image-cropped.png" alt="Akash - AI Engineer and Web Developer" width="100%">
 
 ---
 
@@ -54,7 +45,7 @@
 
 ## Find me around the web
 
-<a href="https://www.akashog.me"><img align="right" width="300" src="https://github.com/Akashog123/Akashog123/blob/main/dancing.gif?raw=true" alt="Dancing animation"></a>
+<a href="https://www.akashog.me"><img align="right" width="250" src="https://github.com/Akashog123/Akashog123/blob/main/dancing.gif?raw=true" alt="Dancing animation"></a>
 
 - Explore my portfolio: [akashog.me](https://www.akashog.me)
 - Connect on LinkedIn: [in/akash](https://www.linkedin.com/in/akash-o-g/)
